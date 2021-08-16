@@ -2,4 +2,4 @@
 
 Link Demo : [https://zikriramdani.github.io/game-tictactoe/]
 
-![result](https://zikriramdani.github.io/game-tictactoe/blob/master/ScreenShot.png)
+![result](https://github.com/zikriramdani/game-tictactoe/blob/main/ScreenShot.png)
